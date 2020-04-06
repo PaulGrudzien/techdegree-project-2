@@ -1,2 +1,3 @@
-# techdegree-projet-2
+# Full Stack JavaScript -- Techdegree Project n°2
+
 List Pagination and Filtering
